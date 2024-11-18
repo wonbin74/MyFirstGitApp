@@ -20,3 +20,7 @@ function fixBugA() {
 function fixBugB() {
     console.log('fixBugB')
 }
+
+function mainBase1() {
+    console.log('mainBase1')
+}
