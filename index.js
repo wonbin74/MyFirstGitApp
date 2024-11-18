@@ -30,3 +30,7 @@ function mainBase1() {
 function mainBase2() {
     console.log('mainBase2')
 }
+
+function bugFix() {
+    console.log('bugFix')
+}
